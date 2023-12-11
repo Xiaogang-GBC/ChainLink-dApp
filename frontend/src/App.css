@@ -1,0 +1,41 @@
+/* App.css */
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantaloupe', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+/* Set the background of the whole page */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #007bff; /* Adjust the color to the blue shade you prefer */
+}
+
+/* Style for the white floating block */
+.App {
+  width: 80%; /* Adjust the width as needed */
+  max-width: 960px; /* Maximum width of the content block */
+  margin: auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* This adds a subtle shadow around the block */
+  border-radius: 8px; /* Optional: rounds the corners */
+  text-align: center;
+}
+
+/* Add some padding and define a max-width for the header if needed */
+.App-header {
+  margin-bottom: 20px;
+}
+
+/* Styling for the note at the bottom */
+.footer-note {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 40px; /* Add some space above the footer note */
+}
