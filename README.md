@@ -13,7 +13,7 @@ A dApp built using React.js, designed to fetch and display real-time cryptocurre
 - **Solidity**: For writing Smart Contracts.
 
 ## User Interface:
-<img width="684" alt="image" src="https://github.com/Xiaogang-GBC/ChainLink-dApp/assets/145496844/17c4f95a-944b-4c61-9f07-d624c0ace2a8">
+<img width="671" alt="image" src="https://github.com/Xiaogang-GBC/ChainLink-dApp/assets/145496844/f531e76c-3acf-44eb-9d83-00ae825b0f4c">
 
 ## How to Use
 
